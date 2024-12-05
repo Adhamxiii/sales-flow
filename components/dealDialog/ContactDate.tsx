@@ -9,10 +9,10 @@ import { Label } from "@/components/ui/label";
 import { useEffect, useState } from "react";
 import { Button } from "../ui/button";
 import { Calendar as CalendarIcon, CircleAlert } from "lucide-react";
-import { format } from "date-fns";
 import { Calendar } from "@/components/ui/calendar";
 import { useFormContext } from "react-hook-form";
 import { useSalesStore } from "@/app/useSalesStore";
+import { format } from "date-fns";
 
 const ContactDate = () => {
   const [date, setDate] = useState<Date | undefined>(new Date());
