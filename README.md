@@ -65,7 +65,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 ## Live Demo
 
-You can access the live version of sales-flow [here](https://trendify-rho.vercel.app/).
+You can access the live version of sales-flow [here](https://sales-flow-kappa.vercel.app/).
 
 ## Contact Me
 
