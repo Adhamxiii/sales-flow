@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sales Flow
 
-## Getting Started
+## Overview
 
-First, run the development server:
+Sales Flow is a comprehensive sales management platform that provides users with a clear overview of their sales pipeline, deal progression, and conversion rates. This application allows users to efficiently track and manage their sales activities, making it easier to identify opportunities and optimize their sales strategies.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Table of Contents
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [Sales Flow](#sales-flow)
+  - [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Installation](#installation)
+  - [Contributing](#contributing)
+  - [Live Demo](#live-demo)
+  - [Contact Me](#contact-me)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Features
 
-To learn more about Next.js, take a look at the following resources:
+- **Total Sales**: Displays the total revenue generated from all sales.
+- **Deals in Progress**: Provides a count of the deals currently in progress.
+- **Conversion Rate**: Showcases the overall conversion rate of the sales pipeline.
+- **Deal Management**: Allows users to add, edit, and delete sales deals, including details such as customer name, deal value, status, contact date, salesperson, and priority.
+- **Filtering and Sorting**: Enables users to filter and sort deals based on various criteria, such as priority and status.
+- **Light and Dark Modes**: Allows users to switch between a light and dark mode, offering a customizable user experience.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Installation
 
-## Deploy on Vercel
+1. Clone the repository:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   git clone https://github.com/Adhamxiii/sales-flow.git
+   cd sales-flow
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to `http://localhost:3000` to access the Trendify application.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## Live Demo
+
+You can access the live version of sales-flow [here](https://trendify-rho.vercel.app/).
+
+## Contact Me
+
+If you have any questions or suggestions regarding the project, feel free to contact me:
+
+- Email: [adhamxiii22](mailto:adhamxiii22@gmail.com)
+- LinkedIn: [Adham](https://www.linkedin.com/in/adhamnasser/)
+- GitHub: [Adhamxiii](https://github.com/Adhamxiii)
